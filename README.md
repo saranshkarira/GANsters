@@ -8,4 +8,7 @@ This repo is for GANs research, to implement all the present GANs papers and als
 - lr : 0.0002
 
 ## Vanilla GANs :
-<img src="https://raw.githubusercontent.com/saranshkarira/GANsters/master/test.gif" width="450" height="450" />
+<img src="https://raw.githubusercontent.com/saranshkarira/GANsters/master/src/vanilla.gif" width="256" height="256" />
+
+## DCGANs
+<img src="https://raw.githubusercontent.com/saranshkarira/GANsters/master/src/dc_45.gif" width="256" height="256" />
