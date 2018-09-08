@@ -1,5 +1,5 @@
 # GANsters
-This repo is for GANs research, to implement all the present GANs papers and also try out their possible variants at super speed.
+This repo is for GANs research, to implement all the present GANs papers, try possible variations and have a side-by-side visual benchmark.
 
 ## ACT:1
 - Dataset : MNIST
@@ -7,8 +7,6 @@ This repo is for GANs research, to implement all the present GANs papers and als
 - Optimizer : ADAM
 - lr : 0.0002
 
-## Vanilla GANs :
-<img src="https://raw.githubusercontent.com/saranshkarira/GANsters/master/src/vanilla.gif" width="256" height="256" />
+## Vanilla GANs               | DCGANS
 
-## DCGANs
-<img src="https://raw.githubusercontent.com/saranshkarira/GANsters/master/src/dc_45.gif" width="256" height="256" />
+<img src="https://raw.githubusercontent.com/saranshkarira/GANsters/master/src/vanilla.gif" width="256" height="256" /><img src="https://raw.githubusercontent.com/saranshkarira/GANsters/master/src/dc_45.gif" width="256" height="256" />
